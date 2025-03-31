@@ -1,6 +1,5 @@
-
 import React from 'react';
-import { Motion, Activity, Database, MessageSquare, AlertCircle, LineChart, BarChart3, BellRing, Zap } from 'lucide-react';
+import { Activity, Database, MessageSquare, AlertCircle, LineChart, BarChart3, BellRing, Zap } from 'lucide-react';
 import { Card, CardContent } from '@/components/ui/card';
 
 interface FeatureCardProps {
